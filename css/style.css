@@ -437,7 +437,7 @@ button[type=submit] {
   -webkit-transition-duration: 700ms;
   transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1);
   -webkit-transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1);
-  transition-delay: 0.95s;
+  transition-delay: 0.55s;
   overflow: hidden;
 }
 .preloader * {
