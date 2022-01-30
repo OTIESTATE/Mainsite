@@ -1111,7 +1111,7 @@ button[type=submit] {
 
 /* PAGE HEADER */
 .page-header {
-  max-width: 100%;
+  max-width: ;
   height: 500px;
   display: flex;
   flex-wrap: wrap;
